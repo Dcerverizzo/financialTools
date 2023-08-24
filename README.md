@@ -26,7 +26,7 @@ Technologies Used
 Installation
 ------------
 
-1.  Clone the repository: `git clone https://github.com/yourusername/financial-tools.git`
+1.  Clone the repository: `git clone https://github.com/Dcerverizzo/financial-tools.git`
 2.  Navigate to the project directory: `cd financial-tools`
 3.  Install dependencies: `npm install`
 
